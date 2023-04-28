@@ -6,6 +6,8 @@
 
 [研究室のWEBサイト](https://www.rs.tus.ac.jp/mune/home/index.html)
 
+[滝本研の百科事典 TakiWiki3](https://github.com/takimotolab/takiwiki3)
+
 **このオーガナイゼーションは非公式です**
 
 # Takimoto Lab

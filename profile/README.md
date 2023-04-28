@@ -1,12 +1,15 @@
-## Hi there 👋
+# 滝本研究室
 
-<!--
+東京理科大学 創域理工学部 計算情報科学科の滝本研究室です。
 
-**Here are some ideas to get you started:**
+[大学の紹介ページ](https://dept.tus.ac.jp/st-is/research/takimoto/)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[研究室のWEBサイト](https://www.rs.tus.ac.jp/mune/home/index.html)
+
+**このオーガナイゼーションは非公式です**
+
+# Takimoto Lab
+
+[Lab's website](https://www.rs.tus.ac.jp/mune/home/index.html)
+
+**This is an unofficial organization.**

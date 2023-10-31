@@ -8,7 +8,7 @@
 
 [滝本研の百科事典 TakiWiki3](https://github.com/takimotolab/takiwiki3)
 
-**このオーガナイゼーションは非公式です**
+**このオーガナイゼーションは半公式です**
 
 # Takimoto Lab
 

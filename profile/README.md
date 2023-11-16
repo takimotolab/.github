@@ -4,14 +4,10 @@
 
 [大学の紹介ページ](https://dept.tus.ac.jp/st-is/research/takimoto/)
 
-[研究室のWEBサイト](https://www.rs.tus.ac.jp/mune/home/index.html)
+[研究室のWEBサイト](https://www.rs.tus.ac.jp/cs/home/)
 
 [滝本研の百科事典 TakiWiki3](https://github.com/takimotolab/takiwiki3)
-
-**このオーガナイゼーションは非公式です**
 
 # Takimoto Lab
 
 [Lab's website](https://www.rs.tus.ac.jp/mune/home/index.html)
-
-**This is an unofficial organization.**
